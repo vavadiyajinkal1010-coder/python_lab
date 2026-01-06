@@ -1,0 +1,16 @@
+"""a=2
+print(a)
+b=20
+print(a+b)
+x=["apple,cherry,watermelon"]
+print(x)
+x=range(20)
+print(x)
+x=319.29106
+print(x)
+a={"mango","grapes","strawberry"}
+print(a)"""
+"""b=True 
+print(b)"""
+c={"name":"jinkal","age":20}
+print(c)
